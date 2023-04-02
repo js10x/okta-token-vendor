@@ -23,9 +23,6 @@ These codes are logged to the console during execution, you can find the full li
 
 [Okta Error Codes](https://developer.okta.com/docs/reference/error-codes/)
 
-## :warning: Important :warning:
-If you are receiving error response codes from Okta, note that it is possible to lock out your ID associated with the issuer. 10 consecutive invalid attempts will lock out your ID and will require a call to TSC to unlock your ID.
-
 ### Flows Supported
 
 * **Authorization Code Grant Flow with PKCE** (*Proof Key for Code Exchange*)
