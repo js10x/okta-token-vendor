@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/JS10X/okta-token-vendor/pkce"
+	"github.com/js10x/okta-token-vendor/pkce"
 )
 
 type TokenVendor struct {

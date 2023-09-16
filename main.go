@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/JS10X/okta-token-vendor/vendor"
+	"github.com/js10x/okta-token-vendor/vendor"
 )
 
 func main() {

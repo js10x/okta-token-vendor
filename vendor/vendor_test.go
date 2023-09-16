@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/JS10X/okta-token-vendor/vendor"
+	"github.com/js10x/okta-token-vendor/vendor"
 )
 
 type mockHttpClient struct {
